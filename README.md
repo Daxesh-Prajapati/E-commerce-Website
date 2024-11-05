@@ -1,4 +1,4 @@
-# nodejs-ecomm
+# Ecommerce Website
 An ecommerce website built on backend: Node.js ( Express.js, MongoDB, Mongoose ) Frontend: HTML, CSS Template Engine - EJS
 
 An simple Ecommerce app where you can Register, login, add book, edit, order, delete. Manage products
